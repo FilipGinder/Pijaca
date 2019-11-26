@@ -1,0 +1,36 @@
+html, body {
+height: 100%;
+margin: 0;
+background-image: url('../../slike/pijaca.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+
+#forma{
+  margin:auto;
+  background-color: rgb(232, 166, 58);
+  box-shadow: 10px 10px 5px;
+  border-radius: 5px;
+  width: 90%;
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%,-50%);
+}
+#registrovanje_div{
+    visibility:hidden;
+}
+#forma_registracija{
+  margin:auto;
+  background-color: rgb(232, 166, 58);
+  box-shadow: 10px 10px 5px;
+  border-radius: 5px;
+  width: 90%;
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%,-50%);
+}
+#nazad_sa_registracije{
+  margin-bottom: 20px;
+}
