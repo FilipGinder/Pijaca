@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="dodaci/chosen.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta charset="utf-8">
-    <!-- <link rel="stylesheet" href="src/css/style.css"> -->
+    <link rel="stylesheet" href="src/css/style.css">
     <link rel="stylesheet" href="src/css/style_mob.css">
     <script type="text/javascript" src="src/js/index_script.js"></script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>    <!-- alert-->
